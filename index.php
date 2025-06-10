@@ -1,0 +1,66 @@
+<html>
+
+<head>
+<title>Joloshree Menu</title>
+</head>
+
+<body>
+    <div style="text-align: center; margin: 0 auto;width: 100%;">
+       
+	   
+	    
+	    
+	    					   <img style="width: 100%;" src="1.jpg" alt="">
+	    					   <img style="width: 100%;" src="2.jpg" alt="">
+						 <img style="width: 100%;" src="3.jpg" alt="">
+	    					 <img style="width: 100%;" src="4.jpg" alt="">	
+	    					 <img style="width: 100%;" src="5.jpg" alt="">	
+	    					 	 <img style="width: 100%;" src="6.jpg" alt="">	
+	    					 	 	 <img style="width: 100%;" src="7.jpg" alt="">	
+	    					 	 	 	 <img style="width: 100%;" src="8.jpg" alt="">	
+	    					 	 	 	 	 <img style="width: 100%;" src="9.jpg" alt="">	
+	    					 	 	 	 	 	 <img style="width: 100%;" src="10.jpg" alt="">	
+	    					 	 	 	 	 	 	 <img style="width: 100%;" src="11.jpg" alt="">	
+	    					 	 	 	 	 	 	 	 <img style="width: 100%;" src="12.jpg" alt="">	
+	    					 	 	 	 	 	 	 	 	 <img style="width: 100%;" src="13.jpg" alt="">	
+	    					 	 	 	 	 	 	 	 	 	 <img style="width: 100%;" src="14.jpg" alt="">	
+	    					 	 	 	 	 	 	 		
+	    					 	 	 	 	 	 	 	 	 
+	    
+	    
+		  <!--<img style="width: 100%;" src="0p.jpg" alt="">
+                <img style="width: 100%;" src="1p.jpg" alt="">
+	        <img style="width: 100%;" src="2p.jpg" alt="">    
+	    <img style="width: 100%;" src="3p.jpg" alt="">
+	    <img style="width: 100%;" src="4p.jpg" alt="">
+	    <img style="width: 100%;" src="5p.jpg" alt="">
+	    <img style="width: 100%;" src="6p.jpg" alt="">
+	    <img style="width: 100%;" src="7p.jpg" alt="">
+	    <img style="width: 100%;" src="8p.jpg" alt="">
+	    <img style="width: 100%;" src="9p.jpg" alt="">
+	    <img style="width: 100%;" src="10p.jpg" alt="">
+	    <img style="width: 100%;" src="11p.jpg" alt="">
+	    <img style="width: 100%;" src="12p.jpg" alt="">
+	    <img style="width: 100%;" src="13p.jpg" alt="">
+	    <img style="width: 100%;" src="14p.jpg" alt="">
+	    <img style="width: 100%;" src="15p.jpg" alt="">
+	    <img style="width: 100%;" src="16p.jpg" alt="">
+	    <img style="width: 100%;" src="17p.jpg" alt="">
+	    <img style="width: 100%;" src="18p.jpg" alt="">-->	
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	 
+		
+	    	 
+	    
+	    
+    </div>
+</body>
+</html>
